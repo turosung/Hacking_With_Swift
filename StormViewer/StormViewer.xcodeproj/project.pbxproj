@@ -23,6 +23,7 @@
 		A8F202032AE969C200EFCCEA /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A8F201F92AE969C200EFCCEA /* nssl0043.jpg */; };
 		A8F202042AE969C200EFCCEA /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A8F201FA2AE969C200EFCCEA /* nssl0033.jpg */; };
 		A8F202052AE969C200EFCCEA /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A8F201FB2AE969C200EFCCEA /* nssl0034.jpg */; };
+		A8F202082AED5D9500EFCCEA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F202072AED5D9500EFCCEA /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		A8F201F92AE969C200EFCCEA /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
 		A8F201FA2AE969C200EFCCEA /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		A8F201FB2AE969C200EFCCEA /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		A8F202072AED5D9500EFCCEA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			children = (
 				A8F201DD2AE9676500EFCCEA /* AppDelegate.swift */,
 				A8F201DF2AE9676500EFCCEA /* SceneDelegate.swift */,
+				A8F202072AED5D9500EFCCEA /* DetailViewController.swift */,
 				A8F201E12AE9676500EFCCEA /* ViewController.swift */,
 				A8F201E32AE9676500EFCCEA /* Main.storyboard */,
 				A8F201E62AE9676600EFCCEA /* Assets.xcassets */,
@@ -134,6 +137,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
+				ORGANIZATIONNAME = SwiftingWithTurosung;
 				TargetAttributes = {
 					A8F201D92AE9676500EFCCEA = {
 						CreatedOnToolsVersion = 14.3.1;
@@ -189,6 +193,7 @@
 				A8F201E22AE9676500EFCCEA /* ViewController.swift in Sources */,
 				A8F201DE2AE9676500EFCCEA /* AppDelegate.swift in Sources */,
 				A8F201E02AE9676500EFCCEA /* SceneDelegate.swift in Sources */,
+				A8F202082AED5D9500EFCCEA /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
